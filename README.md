@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ROHITKUMARAGR
 - 👀 I’m interested in Competetive Programming and in deriving the best solution for the problem. 
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
-- 💞️ I’m looking to collaborate on Machine learning projects
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Graph Algorithms concepts using project.
 - 📫 You can reach me on linekdin{Rohit Kumar Agrahari} or you can reach me on emailid-201951129@iiitvadodara.ac.in or phone no.-8081565695
 
 <!---
